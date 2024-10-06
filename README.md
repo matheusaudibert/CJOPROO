@@ -1,2 +1,2 @@
 # CJOPROO
-Pesquisa Raylib
+Repositório destinado a pesquisa da Biblioteca Raylib.
