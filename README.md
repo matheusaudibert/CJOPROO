@@ -1,2 +1,2 @@
 # CJOPROO
-Repositório destinado a pesquisa da Biblioteca Raylib.
+Repositório destinado a disciplina de PROO.
