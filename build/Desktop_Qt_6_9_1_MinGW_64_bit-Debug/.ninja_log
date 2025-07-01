@@ -1,0 +1,15 @@
+# ninja log v6
+2094	9655	7730859444238765	CMakeFiles/qt_project.dir/main.cpp.obj	a60914707f0b1315
+47	2084	7730859440233338	C:/Users/mathe/Desktop/qt_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qt_project_autogen/mocs_compilation.cpp	e5fdad78970de6fc
+47	2084	7730859440233338	qt_project_autogen/timestamp	e5fdad78970de6fc
+2086	9454	7730859444158792	CMakeFiles/qt_project.dir/qt_project_autogen/mocs_compilation.cpp.obj	f417af4ddb11dd79
+47	2084	7730859440233338	qt_project_autogen/mocs_compilation.cpp	e5fdad78970de6fc
+47	2084	7730859440233338	C:/Users/mathe/Desktop/qt_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qt_project_autogen/timestamp	e5fdad78970de6fc
+11971	12511	7730859543000936	qt_project.exe	6370e44e744f3638
+2102	11971	7730859444308985	CMakeFiles/qt_project.dir/mainwindow.cpp.obj	a31825378f962193
+26	417	7730867627685946	qt_project_autogen/timestamp	e5fdad78970de6fc
+26	417	7730867627685946	qt_project_autogen/mocs_compilation.cpp	e5fdad78970de6fc
+26	417	7730867627685946	C:/Users/mathe/Desktop/qt_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qt_project_autogen/timestamp	e5fdad78970de6fc
+26	417	7730867627685946	C:/Users/mathe/Desktop/qt_project/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/qt_project_autogen/mocs_compilation.cpp	e5fdad78970de6fc
+419	5608	7730867631616080	CMakeFiles/qt_project.dir/mainwindow.cpp.obj	a31825378f962193
+5608	6009	7730867683507189	qt_project.exe	6370e44e744f3638
