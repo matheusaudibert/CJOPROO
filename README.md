@@ -1,3 +1,5 @@
+[Access the portuguese version of the README](README-ptbr.md).
+
 # To Do List
 
 A task list application (To Do List) developed in C++ using Qt Creator. This project offers an intuitive graphical interface for daily task management.
@@ -21,7 +23,7 @@ A task list application (To Do List) developed in C++ using Qt Creator. This pro
 
 1. Run the application
 2. Type a new task in the input field
-3. Click "Add" to include the task in the list
+3. Click "+" to include the task in the list
 4. Use the corresponding buttons to:
    - Mark task as completed
    - Delete task from the list
