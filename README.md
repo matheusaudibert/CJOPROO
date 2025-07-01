@@ -2,6 +2,8 @@
 
 A task list application (To Do List) developed in C++ using Qt Creator. This project offers an intuitive graphical interface for daily task management.
 
+![Image](media/image.png)
+
 ## Technologies Used
 
 - **C++** - Main programming language
